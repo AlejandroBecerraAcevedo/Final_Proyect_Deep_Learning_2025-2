@@ -53,5 +53,3 @@ Este repositorio contiene el informe final del proyecto y cuatro notebooks (Cola
 
 - Autor: Alejandro Becerra Acevedo
 - Curso: Deep Learning — Semestre 2025-2
-
-Si desea, puedo añadir un `requirements.txt` o un `environment.yml` mínimo para facilitar la ejecución local. ¿Quiere que lo agregue? 
