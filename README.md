@@ -48,12 +48,6 @@ Este repositorio contiene el informe final del proyecto y cuatro notebooks (Cola
 
 - Los notebooks guardan checkpoints del modelo y métricas en carpetas locales o en Google Drive si se monta. Revise las celdas iniciales de configuración en cada notebook para ajustar rutas y opciones de guardado.
 
-**Video explicativo:**
-
-- Link al video explicativo (poner aquí el enlace):
-
-  [INCLUIR AQUÍ EL LINK DEL VIDEO EXPLICATIVO]
-
 **Créditos y autoría**
 
 - Autor: Alejandro Becerra Acevedo
