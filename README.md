@@ -1,5 +1,10 @@
 # Proyecto Final - Deep Learning 2025-2
 
+# Video Explicativo de youtube:
+[https://www.youtube.com/watch?v=LT9c9fFXqY0](https://www.youtube.com/watch?v=LT9c9fFXqY0)
+
+
+
 **Descripción:**
 
 Este repositorio contiene el informe final del proyecto y cuatro notebooks (Colab/Google Colab) con las arquitecturas y experimentos realizados para la clasificación/experimentación de modelos de visión (ResNet18 y Vision Transformer).
